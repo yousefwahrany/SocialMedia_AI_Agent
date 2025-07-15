@@ -1,4 +1,4 @@
-# Arabic Virtual Assistant
+# Social Media AI Agent
 
 A Flask-based Arabic language virtual assistant that integrates with Facebook Messenger and page comments, featuring speech recognition, context-aware responses, and natural language generation.
 
